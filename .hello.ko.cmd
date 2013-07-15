@@ -1,0 +1,1 @@
+cmd_/home/sook2/git/hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-38-generic/scripts/module-common.lds --build-id -o /home/sook2/git/hello.ko /home/sook2/git/hello.o /home/sook2/git/hello.mod.o
